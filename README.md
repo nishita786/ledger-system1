@@ -426,10 +426,6 @@ This project demonstrates practical experience with:
 
 Computer Science Engineering (Data Science)
 
-GitHub
-
-https://github.com/YOUR_GITHUB_USERNAME
-
 LinkedIn
 https://www.linkedin.com/in/nishitakr/
 
